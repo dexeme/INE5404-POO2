@@ -1,7 +1,7 @@
 
-#### INE5404
+### INE5404
 
-##Repositório pessoal para organização das atividades propostas da disciplina de Programação Orientada a Objetos II 
+* Repositório pessoal para organização das atividades propostas da disciplina de Programação Orientada a Objetos II 
 
 ## Lista 01
 
