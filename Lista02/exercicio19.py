@@ -40,9 +40,6 @@ while True:
         break
 
 
-
-
-
 total_de_pessoas = (len(lista_de_escolhas)-1)
 
 votos_1 = lista_de_escolhas.count('1')
