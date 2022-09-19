@@ -2,7 +2,7 @@
 palavra em um texto (arquivo txt) e armazena tal quantidade em um dicionário, onde a
 chave é a vogal considerada.'''
 
-from Lista03 import exercicio1.txt
+from Lista03 import *
 
 def frequencia():
     texto = open('exercicio1.txt', 'r')
