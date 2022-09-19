@@ -4,7 +4,7 @@ chave é a vogal considerada.'''
 
 from Lista03 import exercicio1.txt
 
-def main():
+def frequencia():
     texto = open('exercicio1.txt', 'r')
     texto = texto.read()
     texto = texto.split()
