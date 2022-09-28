@@ -3,6 +3,15 @@
 
 * Repositório pessoal para organização das atividades propostas da disciplina de Programação Orientada a Objetos II 
 
+## VPL's
+- [x] VPL 0 - Ordenação de vetor
+- [x] VPL 1 - Classes e Objetos Implementação
+- [x] VPL 2 - Associação, Agregação e Composição
+- [x] VPL 3 - Herança e Classes Abstratas
+- [x] VPL 4 - Controle de Chamados
+- [ ] VPL 5 - Jogo de Cartas
+- [x] VPL 6 - Controle do Elevador
+
 ## Lista 01
 
 - [x] WarmUp
